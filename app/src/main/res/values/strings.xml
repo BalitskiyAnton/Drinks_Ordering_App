@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Drinks Ordering App</string>
+    <string name="wellkomeText">Welkome</string>
+    <string name="editTextUserName">Your name</string>
+    <string name="editTextPassword">Password</string>
+    <string name="buttonText">Enter</string>
+    <string name="radioButtonTee">Tee</string>
+    <string name="radioButtonCoffee">Cofee</string>
+    <string name="sugarCheckbox">Sugar</string>
+    <string name="milkCheckBox">Milk</string>
+    <string name="limonCheckBox">Limon</string>
+    <string name="make_an_order_button">Make an order</string>
+    <string name="hello_text">Helo %s! What do you want</string>
+    <string name="text_add_something_to_drink">What you want to add to your %s</string>
+    <string name="choose_drink_type_text">Choose drink type</string>
+    <string name="name">Name:</string>
+    <string name="drink">Drink:</string>
+    <string name="type_of_drink">Type of drink:</string>
+    <string name="additives">Additives:</string>
+    <string name="eror_field">Field is empty</string>
+
+    <string-array name="Tea_drink">
+        <item>Green tea</item>
+        <item>Black tea</item>
+    </string-array>
+
+    <string-array name="Coffee_drink">
+        <item>Capucino</item>
+        <item>Latte</item>
+        <item>espresso</item>
+    </string-array>
+
+</resources>
